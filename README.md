@@ -30,11 +30,13 @@ Character (superclase)
 
 Captura de resultado esperado
 
-<img width="791" height="697" alt="Captura" src="https://github.com/user-attachments/assets/61d6d903-83e6-4d2a-86c3-084dbb0632a4" />
+
+<img width="821" height="497" alt="Captura resultado final ejercicio POO" src="https://github.com/user-attachments/assets/fcac0b7f-1f85-4c11-a15c-9079a91f3f97" />
 
 Diagrama UML
 
-<img width="1951" height="501" alt="theLordsOfTheRings drawio" src="https://github.com/user-attachments/assets/6699dc99-93af-4075-99eb-ee1eda633a78" />
+<img width="1991" height="661" alt="theLordsOfTheRings drawio (1)" src="https://github.com/user-attachments/assets/45980d9e-1586-49a3-b418-e3aa072415fa" />
+
 
 ## Características técnicas
 - **15 personajes** únicos del universo LOTR
