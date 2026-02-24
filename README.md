@@ -28,6 +28,13 @@ Character (superclase)
 ├── 🦾 UrukHai
 └── 💀 OrcShaman 
 
+Captura de resultado esperado
+
+<img width="791" height="697" alt="Captura" src="https://github.com/user-attachments/assets/61d6d903-83e6-4d2a-86c3-084dbb0632a4" />
+
+Diagrama UML
+
+<img width="1951" height="501" alt="theLordsOfTheRings drawio" src="https://github.com/user-attachments/assets/6699dc99-93af-4075-99eb-ee1eda633a78" />
 
 ## Características técnicas
 - **15 personajes** únicos del universo LOTR
@@ -48,9 +55,7 @@ javac -d . src/lotr/*.java
 
 # Ejecutar
 java lotr.Main
-Captura de resultado esperado
 
-<img width="791" height="697" alt="Captura" src="https://github.com/user-attachments/assets/61d6d903-83e6-4d2a-86c3-084dbb0632a4" />
 
 
 text
@@ -64,10 +69,6 @@ Java 17+
 POO: Encapsulación, Herencia, Polimorfismo
 
 IDE recomendado: IntelliJ 
-
-Diagrama UML
-
-<img width="1951" height="501" alt="theLordsOfTheRings drawio" src="https://github.com/user-attachments/assets/6699dc99-93af-4075-99eb-ee1eda633a78" />
 
 
 Hecho por Heber Paris Caamaño - Full Stack Developer
