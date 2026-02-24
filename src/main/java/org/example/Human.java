@@ -1,6 +1,5 @@
 package org.example;
 
-package lotr;
 
 public class Human extends Character {
     private String kingdom;
