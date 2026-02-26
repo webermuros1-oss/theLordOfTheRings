@@ -11,7 +11,7 @@ Implementación completa de **Programación Orientada a Objetos** en Java usando
 ## Estructura de clases
 Character (superclase)
 
-── Character (Superclass)
+**── Character (Superclass)
 ├── 👤 Human
 │   ├── ⚔️ Knight
 │   └── 🏹 Ranger
@@ -26,7 +26,16 @@ Character (superclase)
 │   └── 👨‍🌾 FarmerHobbit
 └── 👹 Orc
 ├── 🦾 UrukHai
-└── 💀 OrcShaman
+└── 💀 OrcShaman 
+
+Captura de resultado esperado
+
+
+<img width="821" height="497" alt="Captura resultado final ejercicio POO" src="https://github.com/user-attachments/assets/fcac0b7f-1f85-4c11-a15c-9079a91f3f97" />
+
+Diagrama UML
+
+<img width="1991" height="661" alt="theLordsOfTheRings drawio (1)" src="https://github.com/user-attachments/assets/45980d9e-1586-49a3-b418-e3aa072415fa" />
 
 
 ## Características técnicas
@@ -48,7 +57,7 @@ javac -d . src/lotr/*.java
 
 # Ejecutar
 java lotr.Main
-Captura de resultado esperado
+
 
 
 text
@@ -63,6 +72,5 @@ POO: Encapsulación, Herencia, Polimorfismo
 
 IDE recomendado: IntelliJ 
 
-Diagrama UML
 
-Hecho por Heber Paris - Frontend Developer
+Hecho por Heber Paris Caamaño - Full Stack Developer
