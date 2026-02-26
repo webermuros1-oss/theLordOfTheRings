@@ -23,6 +23,7 @@ public class FarmerHobbit extends Hobbit {
                 ", skill: " + getSpecialSkill() +
                 ", harvest: " + harvest +
                 ", weapon: " + getWeapon() +
+                ", phrase: " + getPhrase() +
                 ", health: " + getHealth());
     }
 }

@@ -21,6 +21,7 @@ public class Human extends Character {
         System.out.println("Human: " + getName() +
                 ", kingdom: " + kingdom +
                 ", weapon: " + getWeapon() +
+                ", phrase: " + getPhrase() +
                 ", health: " + getHealth());
     }
 }

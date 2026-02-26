@@ -23,6 +23,7 @@ public class OrcShaman extends Orc {
                 ", strength: " + getStrength() +
                 ", dark magic: " + darkMagicPower +
                 ", weapon: " + getWeapon() +
+                ", phrase: " + getPhrase() +
                 ", health: " + getHealth());
     }
 }

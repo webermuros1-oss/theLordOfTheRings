@@ -21,6 +21,7 @@ public class Hobbit extends Character {
         System.out.println("Hobbit: " + getName() +
                 ", skill: " + specialSkill +
                 ", weapon: " + getWeapon() +
+                ", phrase: " + getPhrase() +
                 ", health: " + getHealth());
     }
 }

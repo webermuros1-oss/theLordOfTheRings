@@ -23,6 +23,7 @@ public class DwarfWarrior extends Dwarf {
                 ", clan: " + getClan() +
                 ", armor: " + armorLevel +
                 ", weapon: " + getWeapon() +
+                ", phrase: " + getPhrase() +
                 ", health: " + getHealth());
     }
 }

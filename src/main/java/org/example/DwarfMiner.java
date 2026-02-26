@@ -22,6 +22,7 @@ public class DwarfMiner extends Dwarf {
                 ", clan: " + getClan() +
                 ", mining: " + miningSkill +
                 ", weapon: " + getWeapon() +
+                ", phrase: " + getPhrase() +
                 ", health: " + getHealth());
     }
 }

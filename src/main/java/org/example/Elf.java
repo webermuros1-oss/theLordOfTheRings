@@ -1,5 +1,4 @@
 package org.example;
-
 public class Elf extends Character {
     private String magicType;
 
@@ -8,12 +7,8 @@ public class Elf extends Character {
         this.magicType = magicType;
     }
 
-    public String getMagicType() {
-        return magicType;
-    }
-    public void setMagicType(String magicType) {
-        this.magicType = magicType;
-    }
+    public String getMagicType() { return magicType; }
+    public void setMagicType(String magicType) { this.magicType = magicType; }
 
     @Override
     public void printDetails() {

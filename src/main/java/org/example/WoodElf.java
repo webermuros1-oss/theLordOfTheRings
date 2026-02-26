@@ -22,6 +22,7 @@ public class WoodElf extends Elf {
                 ", magic: " + getMagicType() +
                 ", forest affinity: " + forestAffinity +
                 ", weapon: " + getWeapon() +
+                ", phrase: " + getPhrase() +
                 ", health: " + getHealth());
     }
 }

@@ -15,13 +15,15 @@ public class HighElf extends Elf {
     public void setWisdom(int wisdom) {
         this.wisdom = wisdom;
     }
-
     @Override
     public void printDetails() {
         System.out.println("High elf: " + getName() +
                 ", magic: " + getMagicType() +
                 ", wisdom: " + wisdom +
                 ", weapon: " + getWeapon() +
+                ", phrase: " + getPhrase() +
                 ", health: " + getHealth());
+
     }
+
 }

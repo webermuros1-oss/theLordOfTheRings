@@ -20,6 +20,7 @@ public class Dwarf extends Character {
         System.out.println("Dwarf: " + getName() +
                 ", clan: " + clan +
                 ", weapon: " + getWeapon() +
+                ", phrase: " + getPhrase() +
                 ", health: " + getHealth());
     }
 }

@@ -23,6 +23,7 @@ public class UrukHai extends Orc {
                 ", strength: " + getStrength() +
                 ", sun resistance: " + sunResistance +
                 ", weapon: " + getWeapon() +
+                ", phrase: " + getPhrase() +
                 ", health: " + getHealth());
     }
 }

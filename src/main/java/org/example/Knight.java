@@ -22,6 +22,8 @@ public class Knight extends Human {
                 ", kingdom: " + getKingdom() +
                 ", honor: " + honorLevel +
                 ", weapon: " + getWeapon() +
+                ", phrase: " + getPhrase() +
                 ", health: " + getHealth());
     }
+
 }

@@ -22,6 +22,7 @@ public class AdventurousHobbit extends Hobbit {
                 ", skill: " + getSpecialSkill() +
                 ", courage: " + courage +
                 ", weapon: " + getWeapon() +
+                ", phrase: " + getPhrase() +
                 ", health: " + getHealth());
     }
 }

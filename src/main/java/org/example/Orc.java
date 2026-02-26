@@ -22,6 +22,7 @@ public class Orc extends Character {
         System.out.println("Orc: " + getName() +
                 ", strength: " + strength +
                 ", weapon: " + getWeapon() +
+                ", phrase: " + getPhrase() +
                 ", health: " + getHealth());
     }
 }

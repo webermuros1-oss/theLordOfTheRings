@@ -22,6 +22,7 @@ public class Ranger extends Human {
                 ", kingdom: " + getKingdom() +
                 ", tracking: " + trackingSkill +
                 ", weapon: " + getWeapon() +
+                ", phrase: " + getPhrase() +
                 ", health: " + getHealth());
     }
 }
